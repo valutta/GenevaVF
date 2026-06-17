@@ -11,6 +11,7 @@ You can try out the font here: https://mutern.volven.me/
 4. More weights ( up to 1000 )
 5. Improve the playground website
 6. ??? Italics ???
+7. width from 50 to 200
 
 ## Notes
 I have noticed quite a lot of kering issues with cyrillic, fixes are coming soon
